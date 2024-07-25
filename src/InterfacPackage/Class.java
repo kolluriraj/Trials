@@ -43,6 +43,8 @@ public class Class implements AddInterface, Additional{
 	@Override
 	public void signboard() {
 		System.out.println("when sign board is shown");
+		System.out.println("when sign board is shown1");
+		System.out.println("when sign board is shown2");
 		
 	}
 
